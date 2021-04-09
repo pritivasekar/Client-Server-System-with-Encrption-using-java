@@ -1,4 +1,4 @@
-# Client-Server-System-With-Encyption-using-java
+# Client-Server-System-With-Encryption-using-java
 
 ## A cryptographic approach of developing an instant messaging client-server chat application using encryption and decryption algorithm on a network.
 
